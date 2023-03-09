@@ -16,7 +16,7 @@ SD-WAN sayesinde broadband, LTE ve MPLS kullanabiliyoruz. Güncel şartlara gör
 
 Bu koşullardan bazıları : bandwidth, latency, packet loss vs
 
-![Untitled](Modem%20Sorunu%209c3f774bc7604358801a41226541c49a/Untitled.png)
+![Untitled](images/Untitled.png)
 
 SD-WAN yapan şirketler ve ürünler:
 
@@ -24,7 +24,7 @@ Berqnet
 
 Cisco
 
-![Untitled](Modem%20Sorunu%209c3f774bc7604358801a41226541c49a/Untitled%201.png)
+![Untitled](images/Untitled%201.png)
 
 Traditional WAN lar cloudlar için tasarlanmamıştı. Ofislerden veri merkezlerine kadar giden bütün trafiği - buluta giden trafik dahil - sağlarlar. Bu yüzden de yavaş çalışırlar. 
 
